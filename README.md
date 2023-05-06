@@ -16,8 +16,7 @@ Facilita a emissão pelo contribuinte, tornando a fiscalização e o incremento 
 
 
 # Contato
-contato@josuecamelo.com
-josueprg@gmail.com
+contato@josuecamelo.com / josueprg@gmail.com
 
 # Whatsapp
 62984018589
