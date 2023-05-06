@@ -11,8 +11,8 @@ Facilita a emissão pelo contribuinte, tornando a fiscalização e o incremento 
 
 # Classes Desenvolvidas para Transmição de NFS-e para Libre Soluções
 
-#Prefeituras
-*https://www.setelagoas.mg.gov.br/
+# Prefeituras
+* https://www.setelagoas.mg.gov.br/
 
 
 # Contato
